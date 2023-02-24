@@ -7,23 +7,23 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="manifest" href="site.webmanifest">
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
 
     <!-- CSS here -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="assets/css/slicknav.css">
-    <link rel="stylesheet" href="assets/css/flaticon.css">
-    <link rel="stylesheet" href="assets/css/progressbar_barfiller.css">
-    <link rel="stylesheet" href="assets/css/gijgo.css">
-    <link rel="stylesheet" href="assets/css/animate.min.css">
-    <link rel="stylesheet" href="assets/css/animated-headline.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
-    <link rel="stylesheet" href="assets/css/themify-icons.css">
-    <link rel="stylesheet" href="assets/css/slick.css">
-    <link rel="stylesheet" href="assets/css/nice-select.css">
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/slicknav.css">
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/progressbar_barfiller.css">
+    <link rel="stylesheet" href="css/gijgo.css">
+    <link rel="stylesheet" href="css/animate.min.css">
+    <link rel="stylesheet" href="css/animated-headline.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="css/themify-icons.css">
+    <link rel="stylesheet" href="css/slick.css">
+    <link rel="stylesheet" href="css/nice-select.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <!-- ? Preloader Start -->
@@ -32,7 +32,7 @@
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="assets/img/logo/bubbles.png" alt="">
+                    <img src="img/logo/bubbles.png" alt="">
                 </div>
             </div>
         </div>
@@ -45,7 +45,7 @@
                 <!-- Logo -->
                 <div class="header-left">
                     <div class="logo">
-                        <a href="index.php"><img src="assets/img/logo/logo.png" alt=""></a>
+                        <a href="index.php"><img src="img/logo/logo.png" alt=""></a>
                     </div>
                     <div class="menu-wrapper  d-flex align-items-center">
                         <!-- Main-menu -->
@@ -63,7 +63,7 @@
                     </div>
                 </div> 
                 <div class="header-right d-none d-lg-block">
-                    <a href="#" class="header-btn1"><img src="assets/img/icon/call.png" alt=""> +233 242 2192</a>
+                    <a href="#" class="header-btn1"><img src="img/icon/call.png" alt=""> +233 242 2192</a>
                     <a href="book.php" class="header-btn2">Make an Appointment</a>
                 </div>
               
@@ -74,7 +74,7 @@
     </header>
     <main>
         <!--? Hero Start -->
-        <div class="slider-area2 section-bg2 hero-overly" data-background="assets/img/hero/hero2.png">
+        <div class="slider-area2 section-bg2 hero-overly" data-background="img/hero/hero2.png">
             <div class="slider-height2 d-flex align-items-center">
                 <div class="container">
                     <div class="row">
@@ -103,7 +103,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-cat text-center">
                             <div class="cat-icon">
-                                <img src="assets/img/icon/services-icon1.svg" alt="">
+                                <img src="img/icon/services-icon1.svg" alt="">
                             </div>
                             <div class="cat-cap">
                                 <h5><a href="services.php">We collect your clothes</a></h5>
@@ -114,7 +114,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-cat text-center">
                             <div class="cat-icon">
-                                <img src="assets/img/icon/services-icon2.svg" alt="">
+                                <img src="img/icon/services-icon2.svg" alt="">
                             </div>
                             <div class="cat-cap">
                                 <h5><a href="services.php">Wash your clothes</a></h5>
@@ -125,7 +125,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-cat text-center">
                             <div class="cat-icon">
-                                <img src="assets/img/icon/services-icon3.svg" alt="">
+                                <img src="img/icon/services-icon3.svg" alt="">
                             </div>
                             <div class="cat-cap">
                                 <h5><a href="services.php">Get delivery</a></h5>
@@ -151,15 +151,15 @@
                 <div class="row no-gutters">
                     <div class="col-lg-6 col-md-6">
                         <div class="single-offers">
-                            <img src="assets/img/gallery/offers1.png" alt="" class=" w-100">
+                            <img src="img/gallery/offers1.png" alt="" class=" w-100">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6">
                         <div class="single-offers">
-                            <img src="assets/img/gallery/offers2.png" alt="" class=" w-100">
+                            <img src="img/gallery/offers2.png" alt="" class=" w-100">
                             <div class="offers-caption text-center">
                                 <div class="cat-icon">
-                                    <img src="assets/img/icon/offers-icon1.png" alt="">
+                                    <img src="img/icon/offers-icon1.png" alt="">
                                 </div>
                                 <div class="cat-cap">
                                     <h5><a href="services.php">Cloth laundry</a></h5>
@@ -170,10 +170,10 @@
                     </div>
                     <div class="col-lg-6 col-md-6">
                         <div class="single-offers">
-                            <img src="assets/img/gallery/offers2.png" alt="" class=" w-100">
+                            <img src="img/gallery/offers2.png" alt="" class=" w-100">
                             <div class="offers-caption text-center">
                                 <div class="cat-icon">
-                                    <img src="assets/img/icon/offers-icon1.png" alt="">
+                                    <img src="img/icon/offers-icon1.png" alt="">
                                 </div>
                                 <div class="cat-cap">
                                     <h5><a href="services.php">Cloth ironing</a></h5>
@@ -184,7 +184,7 @@
                     </div>
                     <div class="col-lg-6 col-md-6">
                         <div class="single-offers">
-                            <img src="assets/img/gallery/offers4.png" alt="" class=" w-100">
+                            <img src="img/gallery/offers4.png" alt="" class=" w-100">
                         </div>
                     </div>
                 </div>
@@ -193,7 +193,7 @@
         <!-- Offer-services End  -->
         <!--? Want To work -->
         <section class="container">
-            <section class="wantToWork-area" data-background="assets/img/gallery/section_bg01.png">
+            <section class="wantToWork-area" data-background="img/gallery/section_bg01.png">
                 <div class="wants-wrapper w-padding2">
                     <div class="row align-items-center justify-content-between">
                         <div class="col-xl-8 col-lg-9 col-md-7">
@@ -203,7 +203,7 @@
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-3 col-md-5">
-                            <a href="#" class="btn wantToWork-btn"><img src="assets/img/icon/call2.png" alt=""> Learn More</a>
+                            <a href="#" class="btn wantToWork-btn"><img src="img/icon/call2.png" alt=""> Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -219,16 +219,16 @@
                             <!-- testmonial-image -->
                             <div class="testmonial-nav text-center">
                                 <div class="testmonial-thumb">
-                                    <img src="assets/img/gallery/testimonila1.png" alt="">
+                                    <img src="img/gallery/testimonila1.png" alt="">
                                 </div>
                                 <div class="testmonial-thumb">
-                                    <img src="assets/img/gallery/testimonila2.png" alt="">
+                                    <img src="img/gallery/testimonila2.png" alt="">
                                 </div>
                                 <div class="testmonial-thumb">
-                                    <img src="assets/img/gallery/testimonila3.png" alt="">
+                                    <img src="img/gallery/testimonila3.png" alt="">
                                 </div>
                                 <div class="testmonial-thumb">
-                                    <img src="assets/img/gallery/testimonila2.png" alt="">
+                                    <img src="img/gallery/testimonila2.png" alt="">
                                 </div>
                             </div>
                             <div class="testmonial-item-active text-center">
@@ -288,7 +288,7 @@
                        <div class="single-footer-caption mb-30">
                         <!-- logo -->
                         <div class="footer-logo mb-35">
-                            <a href="index.php"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
+                            <a href="index.php"><img src="img/logo/logo2_footer.png" alt=""></a>
                         </div>
                         
                         <!-- social -->
@@ -329,7 +329,7 @@
     </div>
 </div>
 <!-- footer-bottom area -->
-<div class="footer-bottom-area section-bg2" data-background="assets/img/gallery/footer-bg.png">
+<div class="footer-bottom-area section-bg2" data-background="img/gallery/footer-bg.png">
     <div class="container">
         <div class="footer-border">
            <div class="row d-flex align-items-center">
@@ -349,46 +349,46 @@
 
 <!-- JS here -->
 
-<script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
+<script src="./js/vendor/modernizr-3.5.0.min.js"></script>
 <!-- Jquery, Popper, Bootstrap -->
-<script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
-<script src="./assets/js/popper.min.js"></script>
-<script src="./assets/js/bootstrap.min.js"></script>
+<script src="./js/vendor/jquery-1.12.4.min.js"></script>
+<script src="./js/popper.min.js"></script>
+<script src="./js/bootstrap.min.js"></script>
 <!-- Jquery Mobile Menu -->
-<script src="./assets/js/jquery.slicknav.min.js"></script>
+<script src="./js/jquery.slicknav.min.js"></script>
 
 <!-- Jquery Slick , Owl-Carousel Plugins -->
-<script src="./assets/js/owl.carousel.min.js"></script>
-<script src="./assets/js/slick.min.js"></script>
+<script src="./js/owl.carousel.min.js"></script>
+<script src="./js/slick.min.js"></script>
 <!-- One Page, Animated-HeadLin -->
-<script src="./assets/js/wow.min.js"></script>
-<script src="./assets/js/animated.headline.js"></script>
-<script src="./assets/js/jquery.magnific-popup.js"></script>
+<script src="./js/wow.min.js"></script>
+<script src="./js/animated.headline.js"></script>
+<script src="./js/jquery.magnific-popup.js"></script>
 
 <!-- Date Picker -->
-<script src="./assets/js/gijgo.min.js"></script>
+<script src="./js/gijgo.min.js"></script>
 <!-- Nice-select, sticky -->
-<script src="./assets/js/jquery.nice-select.min.js"></script>
-<script src="./assets/js/jquery.sticky.js"></script>
+<script src="./js/jquery.nice-select.min.js"></script>
+<script src="./js/jquery.sticky.js"></script>
 <!-- Progress -->
-<script src="./assets/js/jquery.barfiller.js"></script>
+<script src="./js/jquery.barfiller.js"></script>
 
 <!-- counter , waypoint,Hover Direction -->
-<script src="./assets/js/jquery.counterup.min.js"></script>
-<script src="./assets/js/waypoints.min.js"></script>
-<script src="./assets/js/jquery.countdown.min.js"></script>
-<script src="./assets/js/hover-direction-snake.min.js"></script>
+<script src="./js/jquery.counterup.min.js"></script>
+<script src="./js/waypoints.min.js"></script>
+<script src="./js/jquery.countdown.min.js"></script>
+<script src="./js/hover-direction-snake.min.js"></script>
 
 <!-- contact js -->
-<script src="./assets/js/contact.js"></script>
-<script src="./assets/js/jquery.form.js"></script>
-<script src="./assets/js/jquery.validate.min.js"></script>
-<script src="./assets/js/mail-script.js"></script>
-<script src="./assets/js/jquery.ajaxchimp.min.js"></script>
+<script src="./js/contact.js"></script>
+<script src="./js/jquery.form.js"></script>
+<script src="./js/jquery.validate.min.js"></script>
+<script src="./js/mail-script.js"></script>
+<script src="./js/jquery.ajaxchimp.min.js"></script>
 
 <!-- Jquery Plugins, main Jquery -->	
-<script src="./assets/js/plugins.js"></script>
-<script src="./assets/js/main.js"></script>
+<script src="./js/plugins.js"></script>
+<script src="./js/main.js"></script>
 
 </body>
 </html>
